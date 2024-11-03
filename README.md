@@ -1,4 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="https://cdn.tailwindcss.com"></script>
+	</head>
+	<body>
+		<h1 class="text-3xl font-bold underline">
+		
+		</h1>
+	</body>
+</html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -10,8 +22,8 @@
 
     <!-- Header -->
     <header class="bg-blue-500 text-white p-6 mb-8">
-      <div class="w-24 h-24 bg-yellow-300 rounded-full border-4 border-white mx-auto mb-4"></div>
-      <h1 class="text-2xl font-bold text-center">moch.irhab favian</h1>
+      <div class="w-24 h-24 bg-blue-300 rounded-full border-4 border-white mx-auto mb-4"></div>
+      <h1 class="text-2xl font-bold text-center">Moch.Irhab Favian</h1>
       <p class="text-center text-sm mt-2">Web Developer & Designer</p>
     </header>
 
